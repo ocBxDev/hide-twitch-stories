@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Hide Twitch Stories",
+  "version": "1.0",
+  "description": "Extension to hide Twitch stories in the navbar.",
+  "content_scripts": [
+    {
+      "matches": ["*://*.twitch.tv/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["languages.json"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

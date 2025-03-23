@@ -1,0 +1,33 @@
+{
+    "storyTexts": [
+      { "text": "Open stories", "language": "English" },
+      { "text": "Åbn stories", "language": "Dansk" },
+      { "text": "Storys öffnen", "language": "Deutsch" },
+      { "text": "Open stories", "language": "English - UK" },
+      { "text": "Abrir historias", "language": "Español" },
+      { "text": "Abrir historias", "language": "Español - Latino" },
+      { "text": "Ouvrir les stories", "language": "Français" },
+      { "text": "Apri storie", "language": "Italiano" },
+      { "text": "Történetek megnyitása", "language": "Magyar" },
+      { "text": "Open verhalen", "language": "Nederlands" },
+      { "text": "Åpne historier", "language": "Norsk" },
+      { "text": "Otwórz historie", "language": "Polski" },
+      { "text": "Abrir curtas", "language": "Português" },
+      { "text": "Abrir stories", "language": "Português - Brazil" },
+      { "text": "Povești deschise", "language": "Română" },
+      { "text": "Otvoriť príbehy", "language": "Slovenčina" },
+      { "text": "Avaa tarinat", "language": "Suomi" },
+      { "text": "Öppna berättelser", "language": "Svenska" },
+      { "text": "Mở câu chuyện", "language": "Tiếng Việt" },
+      { "text": "Storyleri aç", "language": "Türkçe" },
+      { "text": "Otevřít Stories", "language": "Čeština" },
+      { "text": "Άνοιγμα ιστοριών", "language": "Ελληνικά" },
+      { "text": "Отворете истории", "language": "Български" },
+      { "text": "Открыть истории", "language": "Русский" },
+      { "text": "เปิดเรื่องราว", "language": "ภาษาไทย" },
+      { "text": "打开故事", "language": "中文 简体" },
+      { "text": "開啟限時動態", "language": "中文 繁體" },
+      { "text": "ストーリーを開く", "language": "日本語" },
+      { "text": "스토리 열기", "language": "한국어" }
+    ]
+  }
