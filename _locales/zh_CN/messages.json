@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "隐藏 Twitch 故事",
+      "description": "扩展名称"
+    },
+    "extDescription": {
+      "message": "在导航栏中隐藏 Twitch 故事的扩展。",
+      "description": "扩展描述"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Twitch történetek elrejtése",
+      "description": "A kiterjesztés neve"
+    },
+    "extDescription": {
+      "message": "Kiterjesztés a Twitch történetek elrejtéséhez a navigációs sávban.",
+      "description": "A kiterjesztés leírása"
+    }
+  }

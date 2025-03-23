@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Twitch Hikâyelerini Gizle",
+      "description": "Uzantının adı"
+    },
+    "extDescription": {
+      "message": "Gezinme çubuğundaki Twitch hikâyelerini gizlemek için uzantı.",
+      "description": "Uzantının açıklaması"
+    }
+  }

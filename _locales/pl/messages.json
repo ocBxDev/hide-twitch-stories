@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Ukryj historie Twitch",
+      "description": "Nazwa rozszerzenia"
+    },
+    "extDescription": {
+      "message": "Rozszerzenie do ukrywania historii Twitch na pasku nawigacyjnym.",
+      "description": "Opis rozszerzenia"
+    }
+  }

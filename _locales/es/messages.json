@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Ocultar historias de Twitch",
+      "description": "El nombre de la extensión"
+    },
+    "extDescription": {
+      "message": "Extensión para ocultar las historias de Twitch en la barra de navegación.",
+      "description": "La descripción de la extensión"
+    }
+  }

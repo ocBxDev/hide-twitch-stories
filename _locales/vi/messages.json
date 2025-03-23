@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Ẩn câu chuyện Twitch",
+      "description": "Tên của tiện ích mở rộng"
+    },
+    "extDescription": {
+      "message": "Tiện ích mở rộng để ẩn câu chuyện Twitch trong thanh điều hướng.",
+      "description": "Mô tả của tiện ích mở rộng"
+    }
+  }

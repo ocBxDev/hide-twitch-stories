@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Hide Twitch Stories",
+      "description": "The name of the extension"
+    },
+    "extDescription": {
+      "message": "Extension to hide Twitch stories in the navbar.",
+      "description": "The description of the extension"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Twitch Storys ausblenden",
+      "description": "Der Name der Erweiterung"
+    },
+    "extDescription": {
+      "message": "Erweiterung zum Ausblenden von Twitch Storys in der Navigationsleiste.",
+      "description": "Die Beschreibung der Erweiterung"
+    }
+  }

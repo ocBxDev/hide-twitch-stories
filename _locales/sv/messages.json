@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Dölj Twitch berättelser",
+      "description": "Namnet på tillägget"
+    },
+    "extDescription": {
+      "message": "Tillägg för att dölja Twitch berättelser i navigeringsfältet.",
+      "description": "Beskrivningen av tillägget"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Skrýt Twitch příběhy",
+      "description": "Název rozšíření"
+    },
+    "extDescription": {
+      "message": "Rozšíření pro skrytí Twitch příběhů v navigačním panelu.",
+      "description": "Popis rozšíření"
+    }
+  }

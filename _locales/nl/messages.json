@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Twitch verhalen verbergen",
+      "description": "De naam van de extensie"
+    },
+    "extDescription": {
+      "message": "Extensie om Twitch verhalen in de navigatiebalk te verbergen.",
+      "description": "De beschrijving van de extensie"
+    }
+  }

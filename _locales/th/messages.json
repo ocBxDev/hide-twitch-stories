@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "ซ่อนเรื่องราว Twitch",
+      "description": "ชื่อของส่วนขยาย"
+    },
+    "extDescription": {
+      "message": "ส่วนขยายสำหรับซ่อนเรื่องราว Twitch ในแถบนำทาง",
+      "description": "คำอธิบายของส่วนขยาย"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Twitch 스토리 숨기기",
+      "description": "확장 프로그램 이름"
+    },
+    "extDescription": {
+      "message": "네비게이션 바에서 Twitch 스토리를 숨기는 확장 프로그램입니다.",
+      "description": "확장 프로그램 설명"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "隱藏 Twitch 限時動態",
+      "description": "擴充功能名稱"
+    },
+    "extDescription": {
+      "message": "在導航欄中隱藏 Twitch 限時動態的擴充功能。",
+      "description": "擴充功能描述"
+    }
+  }

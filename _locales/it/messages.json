@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Nascondi storie di Twitch",
+      "description": "Il nome dell'estensione"
+    },
+    "extDescription": {
+      "message": "Estensione per nascondere le storie di Twitch nella barra di navigazione.",
+      "description": "La descrizione dell'estensione"
+    }
+  }

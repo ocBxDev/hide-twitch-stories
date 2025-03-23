@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Piilota Twitch tarinat",
+      "description": "Laajennuksen nimi"
+    },
+    "extDescription": {
+      "message": "Laajennus Twitch tarinoiden piilottamiseksi navigointipalkissa.",
+      "description": "Laajennuksen kuvaus"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Скрыть истории Twitch",
+      "description": "Название расширения"
+    },
+    "extDescription": {
+      "message": "Расширение для скрытия историй Twitch в панели навигации.",
+      "description": "Описание расширения"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Skjul Twitch stories",
+      "description": "Navnet på udvidelsen"
+    },
+    "extDescription": {
+      "message": "Udvidelse til at skjule Twitch stories i navigationslinjen.",
+      "description": "Beskrivelsen af udvidelsen"
+    }
+  }

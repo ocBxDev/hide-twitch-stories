@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Ascunde Povești Twitch",
+      "description": "Numele extensiei"
+    },
+    "extDescription": {
+      "message": "Extensie pentru a ascunde poveștile Twitch în bara de navigare.",
+      "description": "Descrierea extensiei"
+    }
+  }

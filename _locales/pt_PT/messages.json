@@ -1,0 +1,10 @@
+{
+    "extName": {
+      "message": "Ocultar curtas do Twitch",
+      "description": "O nome da extensão"
+    },
+    "extDescription": {
+      "message": "Extensão para ocultar curtas do Twitch na barra de navegação.",
+      "description": "A descrição da extensão"
+    }
+  }
